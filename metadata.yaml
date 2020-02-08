@@ -1,0 +1,44 @@
+_repo: The-Works-of-Thomas-Hood-Vol-02-of-11-Comic-and-Serious-in-Prose-and-Verse-With-All-the-Origi__61301
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hood, Thomas
+    birthdate: 1799
+    deathdate: 1845
+    gutenberg_agent_id: '6181'
+    url: http://www.gutenberg.org/2009/agents/6181
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hood
+  editors:
+  - agent_name: Hood, Tom
+    aliases:
+    - Hood, T. (Thomas)
+    - Hood, Thomas
+    birthdate: 1835
+    deathdate: 1874
+    gutenberg_agent_id: '42752'
+    url: http://www.gutenberg.org/2009/agents/42752
+    wikipedia: https://en.wikipedia.org/wiki/Tom_Hood
+  - agent_name: Broderip, Frances Freeling
+    alias: Hood, Frances Freeling
+    birthdate: 1830
+    deathdate: 1878
+    gutenberg_agent_id: '36368'
+    url: http://www.gutenberg.org/2009/agents/36368
+    wikipedia: https://en.wikipedia.org/wiki/Frances_Freeling_Broderip
+description: ''
+gutenberg_issued: '2020-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61301'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Works of Thomas Hood; Vol. 02 (of 11)
+
+  Comic and Serious, in Prose and Verse, With All the Original
+
+  Illustrations'
+url: http://www.gutenberg.org/ebooks/61301
