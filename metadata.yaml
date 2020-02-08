@@ -1,5 +1,8 @@
 _repo: The-Works-of-Thomas-Hood-Vol-02-of-11-Comic-and-Serious-in-Prose-and-Verse-With-All-the-Origi__61301
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61301-h/images/cover.jpg
 creator:
   author:
     agent_name: Hood, Thomas
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36368
     wikipedia: https://en.wikipedia.org/wiki/Frances_Freeling_Broderip
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61301#The-Works-of-Thomas-Hood-Vol-02-of-11-Comic-and-Serious-in-Prose-and-Verse-With-All-the-Origi_
 gutenberg_issued: '2020-02-02'
 gutenberg_type: Text
 identifiers:
